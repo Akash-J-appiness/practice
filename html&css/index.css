@@ -1,0 +1,44 @@
+p {
+    color: beige;
+    font-weight: 600;
+}
+
+h1 {
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 8px;
+    text-decoration: underline dotted;
+    line-height: 10px;
+    font-size: xx-large;
+    text-transform: uppercase;
+    color: aqua;
+}
+
+body {
+    background-color: purple;
+}
+
+h2 {
+    color: aqua;
+}
+
+.ash {
+    color: paleturquoise;
+}
+
+#akash {
+    color: #7fff00;
+}
+
+section a {
+    color: aqua;
+    font-size: large;
+}
+
+input {
+    color: red;
+}
+
+button:hover {
+    background-color: #7fff00;
+}
