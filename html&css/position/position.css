@@ -1,0 +1,32 @@
+p {
+    width: 50px;
+    height: 50px;
+    background-color: magenta;
+    display: inline-block;
+    position: static;
+}
+
+#static #middle {
+    position: static;
+}
+
+#relative #middle {
+    position: relative;
+    top: 20px;
+    right: 30px;
+}
+
+#absolute #middle {
+    position: relative;
+    top: 20px;
+}
+
+#fixed #middle {
+    position: fixed;
+    top: 20px;
+}
+
+h2 {
+    margin: 0;
+    text-decoration: underline;
+}

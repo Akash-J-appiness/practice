@@ -1,0 +1,24 @@
+img {
+    width: 30%;
+    height: 250px;
+    margin: 1% 1.5%;
+}
+
+nav {
+    margin-left: calc(10%/6);
+    text-transform: uppercase;
+    font-size: 1.5em;
+    border-bottom: 2px solid blueviolet;
+    padding: 0 0;
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+}
+
+img:hover {
+    border: 2px skyblue double;
+    transition: all 0.1s;
+    border-radius: 5%;
+    cursor: pointer;
+    box-shadow: 2px 3px 10px 2px;
+}
