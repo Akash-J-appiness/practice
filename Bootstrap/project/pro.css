@@ -1,0 +1,79 @@
+body {
+    background: #f5d9d5;
+    padding-top: 40px;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+.img-fluid {
+    height: 400px;
+}
+
+nav {
+    background: #f5d9d5;
+}
+
+#navbar .navbar-brand {
+    color: red;
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+#span {
+    color: red;
+}
+
+.ash h1 {
+    padding-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-weight: 100;
+}
+
+#display2 {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+    padding-top: 10px;
+    font-weight: 200;
+    font-size: medium;
+    padding: 30px 80px;
+}
+
+.img2 {
+    height: 400px;
+}
+
+.icon {
+    width: 80px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 100%;
+    height: 100%
+}
+
+#navbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#navbar .nav-link {
+    color: white;
+}
+
+#navbar .nav-link:hover {
+    color: red;
+}
