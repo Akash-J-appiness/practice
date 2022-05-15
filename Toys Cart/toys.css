@@ -1,0 +1,51 @@
+body {
+    background: #f5d9d5;
+}
+
+.divfil .button {
+    margin-left: 205px;
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+
+#ull {
+    margin: auto;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#all {
+    padding: 8px;
+    background-color: lavenderblush;
+    color: white;
+}
+
+.card {
+    color: gray;
+    background-color: lightblue;
+}
+
+.card:hover {
+    color: black;
+}
+
+#bat {
+    border-radius: 50%;
+    border-width: 0px;
+    background-color: white;
+    margin: auto;
+    float: right;
+}
+
+.cart {
+    float: right;
+    border-radius: 15px;
+    background-color: aquamarine;
+    color: blue;
+    border-color: blueviolet
+}
+
+.cart:hover {
+    background-color: crimson;
+    color: aliceblue;
+}

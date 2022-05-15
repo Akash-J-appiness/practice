@@ -1,0 +1,23 @@
+body {
+    background-image: url(./minnion.webp);
+    background-size: cover;
+}
+
+.container {
+    margin-top: 150px;
+    margin-left: auto;
+}
+
+.button {
+    background-color: lightgrey;
+    color: white;
+    border-radius: 15px;
+    padding: 5px 20px;
+    border-width: 0px;
+    font-weight: 600;
+}
+
+.button:hover {
+    background-color: red;
+    color: white;
+}
